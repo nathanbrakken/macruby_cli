@@ -1,0 +1,287 @@
+TCucumber
+v7
+r0
+t374869415.051457
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource build/Debug/Cucumber.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB "/Users/nathanhughes1/Desktop/Cucumber 2/English.lproj/MainMenu.xib"
+cCpResource build/Debug/Cucumber.app/Contents/Resources/MyWindowController.rb MyWindowController.rb
+cCompileC build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o "/Users/nathanhughes1/Desktop/Cucumber 2/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber" normal x86_64
+cTouch "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004FCBF7170000000000000144
+t1338767127
+s324
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004FD36D5F0000000000CB5E08
+t1339256159
+s13327880
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/nathan.brakken/Desktop/Cucumber/English.lproj/InfoPlist.strings
+c000000005081BBE600000000000000CA
+t1350679526
+s202
+
+N/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib
+c000000005085528B000000000002080B
+t1350914699
+s133131
+
+N/Users/nathan.brakken/Desktop/Cucumber/MyWindowController.rb
+c0000000050A6CCD000000000000003B6
+t1353108688
+s950
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/Cucumber.LinkFileList
+c000000005081BDC2000000000000006E
+t1350680002
+s110
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o
+t1350680003
+s5364
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app
+t1353108693
+s102
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Info.plist
+t1350680002
+s1168
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/MacOS/Cucumber
+t1350680004
+s9056
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/PkgInfo
+t1350680002
+s8
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1350680003
+s202
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj/MainMenu.nib
+t1350914702
+s24504
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/MyWindowController.rb
+t1353108693
+s950
+
+N/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/rb_main.rb
+t1350680003
+s621
+
+N/Users/nathan.brakken/Desktop/Cucumber/main.m
+c000000005081BBE600000000000000FD
+t1350679526
+s253
+i<MacRuby/MacRuby.h>
+
+N/Users/nathan.brakken/Desktop/Cucumber/rb_main.rb
+c000000005081BBE6000000000000026D
+t1350679526
+s621
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/English.lproj/InfoPlist.strings
+c000000005081BBE600000000000000CA
+t1350679526
+s202
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/English.lproj/MainMenu.xib
+c000000005085528B000000000002080B
+t1350914699
+s133131
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/MyWindowController.rb
+c0000000050A7D6220000000000000150
+t1353176610
+s336
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/Cucumber.LinkFileList
+c0000000050A7D449000000000000006F
+t1353176137
+s111
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o
+t1350680003
+s5364
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app
+t1353176615
+s102
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Info.plist
+t1350680002
+s1168
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber
+t1353176138
+s9064
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/PkgInfo
+t1350680002
+s8
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1350680003
+s202
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/English.lproj/MainMenu.nib
+t1350914702
+s24504
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/MyWindowController.rb
+t1353176615
+s336
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/rb_main.rb
+t1350680003
+s621
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/main.m
+c000000005081BBE600000000000000FD
+t1350679526
+s253
+i<MacRuby/MacRuby.h>
+
+N/Users/nathanhughes1/Desktop/Cucumber 2/rb_main.rb
+c000000005081BBE6000000000000026D
+t1350679526
+s621
+
+NInfo.plist
+c000000005081BBE60000000000000345
+t1350679526
+s837
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374869415#374869415#0(0"0(0#1#0"8620798368#0"0#
+
+CCompileC build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o "/Users/nathanhughes1/Desktop/Cucumber 2/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o /Users/nathan.brakken/Desktop/Cucumber/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s372372803.318564
+e372372803.919349
+r1
+xCompileC
+xbuild/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o
+x/Users/nathan.brakken/Desktop/Cucumber/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/nathan.brakken/Desktop/Cucumber/main.m372372803#372372803#0(0"0(0#0#45"/Users/nathan.brakken/Desktop/Cucumber/main.m8606270272#982"    cd /Users/nathan.brakken/Desktop/Cucumber    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/Cucumber.hmap -F/Users/nathan.brakken/Desktop/Cucumber/build/Debug -F/Users/nathan.brakken/Desktop/Cucumber/build/Debug -I/Users/nathan.brakken/Desktop/Cucumber/build/Debug/include -I/Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/DerivedSources/x86_64 -I/Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/DerivedSources -c /Users/nathan.brakken/Desktop/Cucumber/main.m -o /Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB "/Users/nathanhughes1/Desktop/Cucumber 2/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB /Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib
+s372607502.741721
+e372607502.964315
+r1
+xCompileXIB
+x/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:397: warning: "Hidden" option will be ignored on Mac OS X versions prior to 10.3.
+o/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:398: warning: NSTextView's "Use Find Panel" option will be ignored on Mac OS X versions prior to 10.3.
+o/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:398: warning: NSTextView's "Continuous Spell Checking" will be ignored on Mac OS X versions prior to 10.3.
+o/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:378: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib372607502#372607502#0(678"/* com.apple.ibtool.document.warnings *//Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:397: warning: "Hidden" option will be ignored on Mac OS X versions prior to 10.3./Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:398: warning: NSTextView's "Use Find Panel" option will be ignored on Mac OS X versions prior to 10.3./Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:398: warning: NSTextView's "Continuous Spell Checking" will be ignored on Mac OS X versions prior to 10.3./Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib:378: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.4(22@67""Hidden" option will be ignored on Mac OS X versions prior to 10.3.372607502#18446744073709551615#0#0(6@65"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib372607499#397#0#397#0#0"0(22@88"NSTextView's "Use Find Panel" option will be ignored on Mac OS X versions prior to 10.3.372607502#18446744073709551615#0#0(6@65"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib372607499#398#0#398#0#0"0(22@92"NSTextView's "Continuous Spell Checking" will be ignored on Mac OS X versions prior to 10.3.372607502#18446744073709551615#0#0(6@65"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib372607499#398#0#398#0#0"0(22@66"Image scaling is not supported on Mac OS X versions prior to 10.5.372607502#18446744073709551615#0#0(6@65"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib372607499#378#0#378#0#0"0(0#0#65"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib8605047008#365"    cd /Users/nathan.brakken/Desktop/Cucumber    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj/MainMenu.nib /Users/nathan.brakken/Desktop/Cucumber/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s372372802.944411
+e372372803.318491
+r1
+xCopyStringsFile
+x/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings372372802#372372803#0(0"0(0#0#70"/Users/nathan.brakken/Desktop/Cucumber/English.lproj/InfoPlist.strings8609131168#367"    cd /Users/nathan.brakken/Desktop/Cucumber    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Cucumber.app/Contents/Resources/MyWindowController.rb MyWindowController.rb
+s374869415.044736
+e374869415.048802
+r1
+xCpResource
+xbuild/Debug/Cucumber.app/Contents/Resources/MyWindowController.rb
+xMyWindowController.rb
+lSLF07#2@26"Copy MyWindowController.rb374869415#374869415#0(0"0(0#0#61"/Users/nathanhughes1/Desktop/Cucumber 2/MyWindowController.rb8611525312#361"    cd "/Users/nathanhughes1/Desktop/Cucumber 2"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nathanhughes1/Desktop/Cucumber 2/MyWindowController.rb" "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Resources"0#
+
+CCpResource build/Debug/Cucumber.app/Contents/Resources/rb_main.rb rb_main.rb
+s372372802.954688
+e372372803.102601
+r1
+xCpResource
+xbuild/Debug/Cucumber.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb372372802#372372803#0(0"0(0#0#49"/Users/nathan.brakken/Desktop/Cucumber/rb_main.rb8609555712#341"    cd /Users/nathan.brakken/Desktop/Cucumber    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nathan.brakken/Desktop/Cucumber/rb_main.rb /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Resources0#
+
+CLd "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber" normal x86_64
+s374868937.630985
+e374868938.164072
+r1
+xLd
+x/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber
+xnormal
+xx86_64
+lSLF07#2@93"Link /Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber374868937#374868938#0(0"0(0#0#0"8619928832#637"    cd "/Users/nathanhughes1/Desktop/Cucumber 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug" "-F/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug" "-F/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug" -filelist "/Users/nathanhughes1/Desktop/Cucumber 2/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/Cucumber.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/MacOS/Cucumber"0#
+
+CLd /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/MacOS/Cucumber normal x86_64
+s372372803.919428
+e372372804.375087
+r1
+xLd
+x/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/MacOS/Cucumber
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/MacOS/Cucumber372372803#372372804#0(0"0(0#0#0"8609194912#619"    cd /Users/nathan.brakken/Desktop/Cucumber    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/nathan.brakken/Desktop/Cucumber/build/Debug -F/Users/nathan.brakken/Desktop/Cucumber/build/Debug -F/Users/nathan.brakken/Desktop/Cucumber/build/Debug -filelist /Users/nathan.brakken/Desktop/Cucumber/build/Cucumber.build/Debug/Cucumber.build/Objects-normal/x86_64/Cucumber.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/MacOS/Cucumber0#
+
+CProcessInfoPlistFile "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Info.plist Info.plist
+s372372802.927980
+e372372802.944338
+r1
+xProcessInfoPlistFile
+x/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist372372802#372372802#0(0"0(0#0#49"/Users/nathan.brakken/Desktop/Cucumber/Info.plist31525678434287664#304"    cd /Users/nathan.brakken/Desktop/Cucumber    builtin-infoPlistUtility Info.plist -genpkginfo /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app/Contents/Info.plist0#
+
+CTouch "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app"
+s374869415.048972
+e374869415.051423
+r1
+xTouch
+x/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app
+lSLF07#2@70"Touch /Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app374869415#374869415#0(0"0(0#0#0"8618496704#138"    cd "/Users/nathanhughes1/Desktop/Cucumber 2"    /usr/bin/touch -c "/Users/nathanhughes1/Desktop/Cucumber 2/build/Debug/Cucumber.app"0#
+
+CTouch /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app
+s374801493.823802
+e374801493.826293
+r1
+xTouch
+x/Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app
+lSLF07#2@69"Touch /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app374801493#374801493#0(0"0(0#0#0"8615985888#132"    cd /Users/nathan.brakken/Desktop/Cucumber    /usr/bin/touch -c /Users/nathan.brakken/Desktop/Cucumber/build/Debug/Cucumber.app0#
+

@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F7E1C32516580B4700254B58 /* Cucumber */;
+		activeTarget = 8D1107260486CEB800E47090 /* Cucumber */;
+		codeSenseManager = F7E1C33416580B6600254B58 /* Code sense */;
+		executables = (
+			F7E1C32516580B4700254B58 /* Cucumber */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 374868807;
+			PBXWorkspaceStateSaveDate = 374868807;
+		};
+		sourceControlManager = F7E1C33316580B6600254B58 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	8D1107260486CEB800E47090 /* Cucumber */ = {
+		activeExec = 0;
+		executables = (
+			F7E1C32516580B4700254B58 /* Cucumber */,
+		);
+	};
+	F7E1C32516580B4700254B58 /* Cucumber */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Cucumber;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F7E1C33316580B6600254B58 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F7E1C33416580B6600254B58 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
